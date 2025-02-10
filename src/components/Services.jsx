@@ -8,7 +8,7 @@ const Services = () => {
           Our Services
         </h1>
         <p className="text-lg text-gray-700">
-          LocomotiveX offers a variety of services designed to make your train
+          LocomotionX offers a variety of services designed to make your train
           travel experience seamless and enjoyable. We provide up-to-date train
           schedules and help you explore exciting travel destinations along the
           way.
@@ -48,7 +48,7 @@ const Services = () => {
           </h2>
           <p className="text-lg text-gray-600">
             Our platform is designed to be intuitive and easy to use. Whether
-            you're a first-time traveler or a seasoned explorer, LocomotiveX
+            you're a first-time traveler or a seasoned explorer, LocomotionX
             makes it easy to search, plan, and book your train journeys and
             discover travel destinations.
           </p>
@@ -57,10 +57,10 @@ const Services = () => {
 
       <section className="text-center mt-12">
         <h2 className="text-3xl font-extrabold text-indigo-600 mb-6">
-          Why Choose LocomotiveX?
+          Why Choose LocomotionX?
         </h2>
         <p className="text-lg text-gray-700">
-          At LocomotiveX, we are committed to making your train travel
+          At LocomotionX, we are committed to making your train travel
           experience smooth and enjoyable. With accurate schedules, a vast
           collection of tourist destinations, and a user-friendly interface, we
           make it easy to explore the country by train. Join us and discover the
