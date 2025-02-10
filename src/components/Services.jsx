@@ -64,7 +64,7 @@ const Services = () => {
           experience smooth and enjoyable. With accurate schedules, a vast
           collection of tourist destinations, and a user-friendly interface, we
           make it easy to explore the country by train. Join us and discover the
-          best of train travel!
+          best of train travel!!
         </p>
       </section>
     </div>
